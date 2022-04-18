@@ -1,4 +1,4 @@
-Hi 👋 My name is Diego javier Conchillo Wagner
+Hi 👋 My name is Diego Javier Conchillo Wagner
 ==============================================
 
 Full stack developer, Founder at Upway digital solutions and software engineer at Santander
