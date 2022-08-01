@@ -5,7 +5,7 @@ Full stack developer, Founder at Upway digital solutions and software engineer a
 -------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Argentina
-* 🖥️  See my portfolio at [MyPortfolio](http://https://diegojcwagner.codearonline.com.ar/)
+* 🖥️  See my portfolio at [MyPortfolio](https://diegojcwagner.upwaydigitalsolutions.com)
 * ✉️  You can contact me at [diegojconchillowagner@gmail.com](mailto:diegojconchillowagner@gmail.com)
 * 🚀  I'm currently working on [Santander Tecnologia](http://www.linkedin.com/company/santandertec/mycompany/)
 * 🧠  I'm learning Next Js
