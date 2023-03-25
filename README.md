@@ -8,7 +8,7 @@ Full stack developer, Founder at Upway digital solutions and software engineer a
 * 🖥️  See my portfolio at [MyPortfolio](https://diegojcwagner.upwaydigitalsolutions.com)
 * ✉️  You can contact me at [diegojconchillowagner@gmail.com](mailto:diegojconchillowagner@gmail.com)
 * 🚀  I'm currently working on [Santander Tecnologia](http://www.linkedin.com/company/santandertec/mycompany/)
-* 🧠  I'm learning Next Js
+* 🧠  I'm learning Docker
 * 🤝  I'm open to collaborating on Web 3.0 and big projects
 
 <a href="https://www.twitter.com/DiegooWagner" target="_blank" rel="noreferrer"><img
