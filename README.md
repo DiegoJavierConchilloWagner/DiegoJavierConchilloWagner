@@ -122,7 +122,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Listen with me while I program or train
   
 
 <br/>  
