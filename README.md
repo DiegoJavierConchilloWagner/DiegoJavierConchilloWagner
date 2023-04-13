@@ -122,7 +122,7 @@
 <br/>  
 
 
-## Listen with me while I program or train
+## Listen with me
   
 
 <br/>  
