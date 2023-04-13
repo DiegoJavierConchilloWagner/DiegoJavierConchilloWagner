@@ -6,19 +6,19 @@
 ### <div align="center">I'm Diego Javier Conchillo Wagner, a full-time full-stack software engineer 👨‍💻 creating art since 2020 🚀</div>  
   
 
-- 🌍 I'm based in Argentina  
+- 🌍 I'm based in Argentina.
   
 
-- 🔭 I’m currently working on [Santander Tecnología](https://www.linkedin.com/company/santandertec/) and [Upway digital solutions](https://upwaydigitalsolutions.com)  
+- 🔭 I’m currently working on [Santander Tecnología](https://www.linkedin.com/company/santandertec/) and [Upway digital solutions](https://upwaydigitalsolutions.com).  
   
 
 - 🌱 I’m currently learning Docker and Automation.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies.
   
 
-- ⚡ Fun fact: He tried to be the Messi of programming  
+- ⚡ Fun fact: He tried to be the Messi of programming.
   
 
 <br/>  
