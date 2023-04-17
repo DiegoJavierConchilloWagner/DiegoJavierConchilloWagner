@@ -5,6 +5,7 @@
 
 ### <div align="center">I'm Diego Javier Conchillo Wagner, a full-time full-stack software engineer 👨‍💻 creating art since 2020 🚀</div>  
   
+<br/>  
 
 - 🌍 I'm based in Argentina.
   
