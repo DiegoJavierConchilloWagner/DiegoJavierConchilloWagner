@@ -149,7 +149,7 @@
 <a href="https://instagram.com/diegojwagner" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="mailto:diego@upwaydigitalsolutions.com" target="_blank">
+<a href="mailto:diegoo.javier.wagner@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
