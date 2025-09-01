@@ -11,7 +11,7 @@
 
 - 🌍 **Location:** Argentina
 - 💼 **Currently working at:** [Santander Tecnología](https://www.linkedin.com/company/santandertec/) *(Private repositories - commits not visible on this profile)*
-- 🎯 **Founder & Lead Developer:** [Upway Digital Solutions](https://upwaydigitalsolutions.com)
+- 🎯 **Founder & Lead Developer:** [Upway Digital - Agencia de Marketing Digital](https://upwaydigitalsolutions.com/)
 - 🌱 **Currently learning:** Docker, DevOps Automation & Cloud Architecture
 - 💡 **Expertise:** MERN Stack, Next.js, TypeScript, Full-Stack Development
 - ⚡ **Fun fact:** Striving to be the Messi of programming ⚽
