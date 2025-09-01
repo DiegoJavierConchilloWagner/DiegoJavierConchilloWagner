@@ -62,7 +62,7 @@
 
 ## 💼 Professional Experience
 
-### 🏦 **Santander Tecnología Argentina** 
+### 🏦 **[Santander Tecnología Argentina](https://www.santander.com.ar/)** 
 *Sr. Software Development Engineer* | *Nov 2021 - Present*
 
 - Led development of customer onboarding solutions and web biometric authentication systems
@@ -76,13 +76,13 @@
 - Led multifunctional teams delivering 20+ custom solutions across various industries
 - Specialized in corporate management systems and modern web applications
 
-### 📚 **Coderhouse** 
+### 📚 **[Coderhouse](https://www.coderhouse.com/ar/)** 
 *React.js Tutor* | *Jan 2021 - Present*
 
 - Mentored 100+ students in web development, JavaScript, and React.js
 - Led successful cohorts with focus on practical development skills
 
-### 💳 **Credencial Payments** 
+### 💳 **[Credencial Payments](https://credencialpayments.com/)** 
 *Full Stack Developer* | *Jul 2021 - Nov 2021*
 
 - Developed payment processing solutions using React.js and modern technologies
