@@ -69,7 +69,7 @@
 - Recognized as technical reference for web flow design and process optimization
 - Focus on end-to-end development, automation, and security enhancement
 
-### 🚀 **Upway Digital Solutions** 
+### 🚀 **[Upway Digital - Agencia de Marketing Digital](https://upwaydigitalsolutions.com/)** 
 *Founder & Full-Stack Developer* | *2020 - Present*
 
 - Founded and scaled digital agency from startup to successful business
